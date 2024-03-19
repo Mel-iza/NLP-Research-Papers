@@ -1,4 +1,6 @@
-# 📋 [STUDIES] | Objective
+# 📋 [STUDIES] 
+
+# Objective
 
 # Description
 
