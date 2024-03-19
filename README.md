@@ -1,4 +1,6 @@
-# NLP-Research-Papers
+# 📑 NLP Research Papers
+
+![Static Badge](https://img.shields.io/badge/Studies-white?label=%F0%9F%93%8B&labelColor=red) ![Static Badge](https://img.shields.io/badge/LLMs-white?label=%F0%9F%93%8B&labelColor=orange) ![Static Badge](https://img.shields.io/badge/NLP-white?label=%F0%9F%93%8B&labelColor=yellow) ![Static Badge](https://img.shields.io/badge/Arxiv-white?label=%F0%9F%93%8B&labelColor=red&link=https%3A%2F%2Farxiv.org) ![Static Badge](https://img.shields.io/badge/Transformers-white?label=%F0%9F%93%8B&labelColor=orange&link=https%3A%2F%2Farxiv.org)
 
 ---
 
