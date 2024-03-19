@@ -1,9 +1,10 @@
-## 📋 STUDIES
+## 📋 Studies 📋
 
 # Objective
+_here_
 
 # Description
-
+_here_
 
 # Types of Articles
 - [ ] Semantic Similarity
