@@ -13,3 +13,11 @@ Large language models (LLMs) are increasingly prevalent in conversational system
 
 ### 📑 Self Notes
 
+O artigo inicia com um breve parágrafo sobre LLMs e apresenta o desafio que baseou seu estudo: o problema de modelos de linguagem serem capazes de responder bem em tipos de conversas `chat`. Conhecemos essas conversas como conversas comuns com chatbots, que temos o assistant (chatbot) e o usuário em um diálogo. Modelos conseguem responder bem em contextos gerais de pergunta-resposta (Q&A) por exemplo, mas não manter essas conversas.<br>
+
+A partir disso, são apresentados dois termos que o artigo mencionará ao longo de seu desenvolvimento: `TOD - Task-oriented dialog` e `DST - Dialog State Tracker`. O diálogo orientado a tarefas é importante em um contexto conversacional porque 1) existem mensagens simultâneas que se perpetuam ao longo da conversa e 2) o modelo precisa saber identificar e extrair, para cada mensagem que o usuário envia, suas intenções.
+
+
+
+
+
