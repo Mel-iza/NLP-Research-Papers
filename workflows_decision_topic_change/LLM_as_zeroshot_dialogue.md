@@ -17,6 +17,8 @@ O artigo inicia com um breve parágrafo sobre LLMs e apresenta o desafio que bas
 
 A partir disso, são apresentados dois termos que o artigo mencionará ao longo de seu desenvolvimento: `TOD - Task-oriented dialog` e `DST - Dialog State Tracker`. O diálogo orientado a tarefas é importante em um contexto conversacional porque 1) existem mensagens simultâneas que se perpetuam ao longo da conversa e 2) o modelo precisa saber identificar e extrair, para cada mensagem que o usuário envia, suas intenções.
 
+`The challenge lies in the model's hability to accurately summarize user needs over multiple turns of conversation and also strictly adhere`
+
 
 
 
